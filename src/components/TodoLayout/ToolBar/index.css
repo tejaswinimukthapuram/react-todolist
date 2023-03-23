@@ -1,0 +1,12 @@
+ 
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: hsl(11deg 100% 62%);
+    font-weight: 600;
+} 
+
+.brand{
+    color: hsl(11deg 100% 62%);
+    font-weight: 500;
+}
+
